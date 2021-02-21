@@ -1,5 +1,7 @@
-#reat-time chat app (slack clone) using React JS
-# redux template
-# styled components as CSS for UI design
-#firebase firestore, hooks, authentication
-# package manager: npm 
+Real time chat app --> Slack-Clone 
+
+React JS --> redux template
+
+FireBase --> Firestore, firebase hooks, google authentication
+
+package manager --> npm 
